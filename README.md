@@ -1,5 +1,3 @@
-# Reinforcement-learning-rock_paper_scissors_simulator.ipynb
-
 # Reinforcement-learning_rock_paper_scissors_simulator.ipynb
 
 This project simulates a Rock-Paper-Scissors game between agents employing various strategies. It allows users to experiment with and analyze the behavior of different strategies, including Random, Tit-for-Tat, and Reinforcement Learning (RL)-based agents. The simulator is designed to provide insights into strategic decision-making and learning over repeated rounds of play.
